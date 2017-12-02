@@ -1,0 +1,8 @@
+#bookmarks-sidebar-button{
+  list-style-image: url(chrome://bookmarks-sidebar/skin/images/icon16.png);
+}
+
+#bookmarks-sidebar-button[cui-areatype="menu-panel"],
+toolbarpaletteitem[place="palette"] > #bookmarks-sidebar-button {
+  list-style-image: url(chrome://bookmarks-sidebar/skin/images/icon32.png);
+}
